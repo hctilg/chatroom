@@ -59,7 +59,7 @@ https://user-images.githubusercontent.com/63199745/209545510-12f7c1c3-23bd-43d5-
 ##  [Contributors][contributors]
 
 * TadavomnisT
-* MSFPT
+* Hctilg
 
 ## License
 *  GPL-3.0 license 
